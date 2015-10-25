@@ -1,19 +1,20 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_DEFINITION": 0
+    },
     "capabilities": [
         ""
     ],
     "companyName": "dklee9@gmail.com",
-    "longName": "Dic",
+    "longName": "PebbleDict",
     "projectType": "native",
     "resources": {
         "media": []
     },
     "sdkVersion": "3",
-    "shortName": "Dic",
+    "shortName": "PebbleDict",
     "targetPlatforms": [
-        "basalt",
-        "chalk"
+        "basalt"
     ],
     "uuid": "1a073827-1f3d-489a-8b45-1d539b7b898d",
     "versionLabel": "1.0",
