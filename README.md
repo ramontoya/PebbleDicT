@@ -1,0 +1,2 @@
+# PebbleDicT
+Dictionary for Pebble
