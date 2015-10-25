@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dklee9@gmail.com",
+    "longName": "Dic",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Dic",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "1a073827-1f3d-489a-8b45-1d539b7b898d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
